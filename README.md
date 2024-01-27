@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">:smile: Language Used :smile:</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdesale2003&layout=compact"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdesale2003&layout=compact&theme=chartreuse-dark"></div>
