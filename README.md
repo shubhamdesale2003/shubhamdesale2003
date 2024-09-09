@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdesale2003-git&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdesale2003-git" /> </p>
 
 
 <h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
