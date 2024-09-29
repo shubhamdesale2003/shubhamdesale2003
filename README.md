@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
 <h2 align="center">:books: Bachelor's of Computer Application (B.C.A.) :books:</h2>
-
+<br>
+<h2>Tools</h2>
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/shubhamdesale2003/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Application+Student+Engineer;Frontend%20|%20%20JavaScript%20|%20%20React.js%20|%20%20HTML%20CSS;&center=true&width=550&height=40">
