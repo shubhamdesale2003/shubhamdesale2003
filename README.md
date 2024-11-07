@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
-        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚 </h1>
+
 <h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
 <h2 align="center">:books: Bachelor's of Computer Application (B.C.A.) :books:</h2>
 <br>
