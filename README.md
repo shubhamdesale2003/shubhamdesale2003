@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdesale2003-git&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdesale2003-git" /> </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-21-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
+    <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
+    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
+</p>
 
 
 <h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
