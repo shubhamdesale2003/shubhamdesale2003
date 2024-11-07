@@ -23,7 +23,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
 </p>
 
-
+<hr>
+<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
+        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚 </h1>
 <h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
 <h2 align="center">:books: Bachelor's of Computer Application (B.C.A.) :books:</h2>
 <br>
