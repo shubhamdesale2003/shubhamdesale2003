@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h1 align="center">Hey, I am Shubham Desale! :wave:</h1>
+<h1 align="center">Hey, I am Shubham Desale!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">:books: Bachelor's of Computer Application (B.C.A.) :books:</h2>
 <br>
