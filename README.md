@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <p align="center">
  
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=JavaScript+%7C+HTML5+%7C+CSS3+%7C+JavScript ES6 +React.Js+JAVA+%7C+Git+and+GitHub" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=620&lines=JavaScript+%7C+HTML5+%7C+CSS3+%7C+JAVA+%7C+Git+and+GitHub" alt="Typing SVG">
   </a>
 </p>
 
